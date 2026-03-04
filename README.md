@@ -1,6 +1,9 @@
-# 05-aws-reliability-migrations
+# 05-aws-reliability-migrations-gitops
 
 A production-minded Database Reliability Engineering toolkit: HA lab, backup/PITR drills, and zero-downtime migration playbooks.
+
+Focus: gitops
+
 
 ## Why this repo exists
 This is a portfolio-grade, runnable toolkit that demonstrates how I approach database reliability work:
